@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE projectRecord SYSTEM "pR.dtd">
+<projectRecord>
+  <info>
+      <keyName>PRI-TP2</keyName>
+      <title>PRI-TP2</title>
+      <beginDate>Outubro 2020</beginDate>
+      <endDate>Outubro 2020</endDate>
+      <superVisor href="http://www4.di.uminho.pt/~jcr/">José Carlos Ramalho</superVisor>
+  </info>
+  <workTeam>
+      <person>
+        <id>1</id>
+        <nome>Guilherme Pereira Martins</nome>
+        <numero>A70782</numero> 
+        <email href ="mailto:a70782@alunos.uminho.pt">a70782@alunos.uminho.pt</email>
+      </person>
+  </workTeam>
+  <abstract>
+    <p><b>Tpc-2</b> da UC de <b>PRI</b> (Processamento e Representação de Informação).</p>
+    <p>Adicionado ao repositório <b>Github:</b> <link href="">PRI2020</link> de Guilherme Martins.</p>
+  </abstract>
+  <deliverables>
+      <link href="pR.dtd">Project Record DTD (Document Type Definition)</link>
+      <link href="pR.xml">Project Record XML (Extensible Markup Language)</link>
+  </deliverables>
+</projectRecord>

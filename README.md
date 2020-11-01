@@ -4,3 +4,5 @@ TPC-1:
 	-Webpage com tema: EsturjÃ£o
 TPC-2:
 	-Ficheiros .xml e .dtd de um Project Record
+TPC-3:
+	-Ficheiros .dtd e .xsl de um dataset "Sitios Arquiológicos" em .xml

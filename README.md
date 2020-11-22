@@ -8,3 +8,5 @@ TPC-3:
 	-Ficheiros .dtd e .xsl de um dataset "Sitios Arquiológicos" em .xml
 TPC-4:
 	-Ficheiro .xsl e servidor.js com base no dataset "Sitios Arquiológicos" em .xml
+TPC-5:
+	-Servidor .js que trata o dataset "Escola de Música"

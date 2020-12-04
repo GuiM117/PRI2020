@@ -1,0 +1,39 @@
+{
+  "tarefas": [
+    {
+      "id": "1",
+      "designation": "Task number 1",
+      "responsible": "Guilherme Martins",
+      "deadlineDate": "24/12/2020",
+      "state": "active"
+    },
+    {
+      "id": "2",
+      "designation": "Task number 2",
+      "responsible": "Guilherme Martins",
+      "deadlineDate": "23/12/2020",
+      "state": "active"
+    },
+    {
+      "id": "3",
+      "designation": "Task number 3",
+      "responsible": "Guilherme Martins",
+      "deadlineDate": "21/12/2020",
+      "state": "active"
+    },
+    {
+      "id": "4",
+      "designation": "Task number 4",
+      "responsible": "Guilherme Martins",
+      "deadlineDate": "25/12/2020",
+      "state": "active"
+    },
+    {
+      "id": "5",
+      "designation": "Task number 5",
+      "responsible": "Guilherme Martins",
+      "deadlineDate": "12/12/2020",
+      "state": "active"
+    }
+  ]
+}

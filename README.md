@@ -10,3 +10,5 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Ficheiro .xsl e servidor.js com base no dataset "Sitios Arquiológicos" em .xml
 ### TPC-5:
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Servidor .js que trata o dataset "Escola de Música"
+### TPC-6:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Aplicação Web "To Do List"

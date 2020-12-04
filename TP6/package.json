@@ -1,0 +1,15 @@
+{
+  "name": "tpc6",
+  "version": "1.0.0",
+  "description": "webApp To-Do list",
+  "main": "webApp.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node webApp.js"
+  },
+  "author": "Guilherme Martins",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.0"
+  }
+}

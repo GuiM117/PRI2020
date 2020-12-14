@@ -12,3 +12,5 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Servidor .js que trata o dataset "Escola de Música"
 ### TPC-6:
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Aplicação Web "To Do List"
+### TPC-6:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Aplicação Web "Lista de Alunos" com Express

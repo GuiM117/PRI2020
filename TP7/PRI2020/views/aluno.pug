@@ -1,0 +1,22 @@
+extends layout
+
+block content
+    .w3-card-4
+        if info != null
+            header.w3-container.w3-teal
+                h3 #{info.Nome}
+            div(class="w3-container")
+                ul
+                    li Número: #{info.Número}
+                    li Nome: #{info.Nome}
+                    li GIT: #{info.Git}
+            form(action='/remover/'+info._id, method='POST')
+                input(type='submit', value='Eliminar registo de aluno')
+        else
+            div(class="w3-container")
+                p aluno não existe
+        .w3-container
+                p 
+                    a(href='/alunos') Voltar à pagina de Alunos
+        footer(class="w3-container w3-teal")
+            address Gerado por aluno :: 2020-Dezembro, Guilherme Martins
